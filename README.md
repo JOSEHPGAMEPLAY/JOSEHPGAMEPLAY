@@ -56,7 +56,7 @@ Me especializo en **Spring Boot**, **React** y **arquitecturas basadas en buenas
 ## 📫 Conecta conmigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-hernando-vera-jaimes-277148250/)
-- 📧 Email: jose.hvj@hotmail.com
+- 📧 Email: jose.kj11@hotmail.com
 
 ---
 
